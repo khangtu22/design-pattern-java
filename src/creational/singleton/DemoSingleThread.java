@@ -15,6 +15,5 @@ public class DemoSingleThread {
         }
         System.out.println(captain1);
         System.out.println(captain2);
-
     }
 }
