@@ -1,4 +1,4 @@
-package creational.factory_method.my_example.vihecle;
+package creational.factory_method.example.vehicle;
 
 public class TruckVehicle implements Vehicle{
 

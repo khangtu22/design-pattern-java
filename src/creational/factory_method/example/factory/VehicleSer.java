@@ -1,6 +1,6 @@
-package creational.factory_method.my_example.factory;
+package creational.factory_method.example.factory;
 
-import creational.factory_method.my_example.vihecle.Vehicle;
+import creational.factory_method.example.vehicle.Vehicle;
 
 public abstract class VehicleSer {
     public void makeVehicle(){

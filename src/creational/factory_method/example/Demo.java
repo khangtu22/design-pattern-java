@@ -1,7 +1,7 @@
-package creational.factory_method.my_example;
+package creational.factory_method.example;
 
-import creational.factory_method.my_example.factory.TruckVehicleSer;
-import creational.factory_method.my_example.factory.VehicleSer;
+import creational.factory_method.example.factory.TruckVehicleSer;
+import creational.factory_method.example.factory.VehicleSer;
 
 public class Demo {
     private static VehicleSer vehicleSer;
